@@ -1,1 +1,1 @@
-Simple CRUD application using MERN stack.
+Simple CRUD application with JWT authentication using MERN stack.
